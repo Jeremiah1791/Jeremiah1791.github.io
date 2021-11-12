@@ -1,4 +1,3 @@
-# Jeremiah1791.github.io
 <html>
 <head>
 <style>
