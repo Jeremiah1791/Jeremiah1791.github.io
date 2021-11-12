@@ -30,20 +30,20 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Ethan McGee</h1>
+        <h1>JeremiH Holland</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying Bible with a minor in Biblical Counseling.</p>
          <p>
-            I enjoy participating in community outreach events, and I am active in my local church: Southside Baptist Church of Gaffney, SC.  I teach Sunday School for the College &amp; Career group and I run the Sound / Video Projection System during services.  I also drive the church bus for weekend activities.
+            I enjoy participating in community outreach events, and I am active in my local church: Summit Church in Cherrydale. I love to read especially Star Wars novels.
          </p> 
          <p>
-            I also enjoy running / hiking as well as a good book
+            I also enjoy Camping, Martial Arts in which I am a Black Belt, and spending time with friends.
          </p>
         
         <h3>EDUCATION</h3>
-        Computer Science<br>
-        Bob Jones University
+        High School Diploma<br>
+        Homeschooled
     </div>
            
 </body>
