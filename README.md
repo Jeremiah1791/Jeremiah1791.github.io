@@ -30,7 +30,7 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>JeremiH Holland</h1>
+        <h1>Jeremiah Holland</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
          <p>I am a freshman at Bob Jones University studying Bible with a minor in Biblical Counseling.</p>
